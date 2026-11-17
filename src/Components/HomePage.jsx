@@ -13,7 +13,7 @@ export default function HomePage() {
         <hr className=' border-2'></hr>
         
         <div className='flex-1 flex flex-col items-center justify-center text-center px-6 '>
-        <h1 className=' font-extrabold text-4xl md:text-6xl  '>DISCOVER MOVIES</h1>                     
+        <h1 className=' font-extrabold text-4xl md:text-6xl  '>DISCOVER The MOVIES</h1>                     
                                                     
         <p className=' text-gray-900 font-medium mb-[2rem] text-[1.2rem] '>Explore and discover your favorite   movies from around the world.</p>                 
                                                       
